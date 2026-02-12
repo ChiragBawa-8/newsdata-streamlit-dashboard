@@ -143,9 +143,9 @@ if st.sidebar.button("🔄 Reset All Filters"):
 def build_api_url(api_key, endpoint_type, next_page=None):
     """Build API URL with parameters"""
     base_urls = {
-        "Latest News": "https://local.newsdata.io/api/1/latest",
-        "Crypto News": "https://local.newsdata.io/api/1/crypto",
-        "Archive News": "https://local.newsdata.io/api/1/archive"
+        "Latest News": "https://newsdata.io/api/1/latest",
+        "Crypto News": "https://newsdata.io/api/1/crypto",
+        "Archive News": "https://newsdata.io/api/1/archive"
     }
     
     url = base_urls[endpoint_type]
