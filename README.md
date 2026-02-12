@@ -201,18 +201,6 @@ pip install --no-cache-dir -r requirements.txt
 chmod +x setup.sh run.sh
 ```
 
-### Runtime
-
-**"Rate limit reached"**
-- Wait 5 minutes
-- Use smaller date ranges
-- Partial results shown
-
-**Port already in use**
-```bash
-streamlit run app.py --server.port 8502
-```
-
 **Charts not displaying**
 ```bash
 streamlit cache clear
