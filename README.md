@@ -1,3 +1,7 @@
+<img width="1583" height="894" alt="image" src="https://github.com/user-attachments/assets/0d282a27-ec90-4d1e-a2ff-9450fdcfe89a" />
+
+<img width="1837" height="927" alt="image" src="https://github.com/user-attachments/assets/a3c5976e-b28c-4b6d-bc70-045df4d04d80" />
+
 # NewsData.io Analysis Dashboard
 
 A comprehensive Python-based dashboard built with Streamlit for analyzing news data from NewsData.io with advanced visualizations, sentiment analysis, PDF export, and detailed reporting.
